@@ -1,1 +1,3 @@
 hello_ignore.txt
+/secret-files/*
+!/secret-files/secret_exampe.txt
